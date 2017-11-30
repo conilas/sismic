@@ -23,7 +23,7 @@ namespace ProjetoFinal.Controllers
         // POST: api/Dados
         public HttpResponseMessage Post([FromBody]Relays value)
         {
-            relay_state = value.relay; 
+            relay_state = value.relay.Equals("1") ? "ON" : "OFF";  
             if (relay_change.Equals("ON")) return new HttpResponseMessage(HttpStatusCode.OK);
             return new HttpResponseMessage(HttpStatusCode.Created); 
         }
