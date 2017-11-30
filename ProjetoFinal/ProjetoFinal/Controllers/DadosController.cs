@@ -10,28 +10,28 @@ namespace ProjetoFinal.Controllers
 {
     public class DadosController : ApiController
     {
-        public static string relay_state = "OFF";  
-        private string relay_change = "";
+        static string relay_state = "";  
+        static string relay_change = "";
 
         // GET: api/Dados   
         public string Get()
         {
-           return relay_state;  
+           return relay_state + "skajdasjkdjas " + relay_change ;  
         }
         
         [HttpPost]
         // POST: api/Dados
         public HttpResponseMessage Post([FromBody]Relays value)
         {
-            relay_state = value.relay.Equals("1") ? "ON" : "OFF";  
+            relay_state = value.relay.Equals("1") ? "OFF" : "ON";  
             if (relay_change.Equals("ON")) return new HttpResponseMessage(HttpStatusCode.OK);
             return new HttpResponseMessage(HttpStatusCode.Created); 
         }
                   
         [HttpPut]
-        public void Put([FromBody]string value)
+        public void Put([FromBody]Relays value)
         { 
-            relay_change = value;
+            relay_change = value.relay;
         } 
 
         // DELETE: api/Dados/5

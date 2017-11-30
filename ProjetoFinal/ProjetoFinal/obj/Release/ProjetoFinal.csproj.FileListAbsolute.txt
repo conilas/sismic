@@ -18,3 +18,23 @@ c:\users\felipe machado\documents\visual studio 2017\Projects\ProjetoFinal\Proje
 c:\users\felipe machado\documents\visual studio 2017\Projects\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.csproj.CoreCompileInputs.cache
 c:\users\felipe machado\documents\visual studio 2017\Projects\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.dll
 c:\users\felipe machado\documents\visual studio 2017\Projects\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.pdb
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\ProjetoFinal.dll.config
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\ProjetoFinal.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\ProjetoFinal.pdb
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\Newtonsoft.Json.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Net.Http.Formatting.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Web.Http.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Web.Http.WebHost.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\Newtonsoft.Json.xml
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Net.Http.Formatting.xml
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Web.Http.xml
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\System.Web.Http.WebHost.xml
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.dll
+C:\Users\Felipe Machado\Documents\Nicolas\ProjetoFinal\ProjetoFinal\obj\Release\ProjetoFinal.pdb
